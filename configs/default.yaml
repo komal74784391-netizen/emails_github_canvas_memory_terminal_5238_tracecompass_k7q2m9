@@ -1,0 +1,4 @@
+dataset: nq_open
+epochs: 4
+batch_size: 32
+learning_rate: 0.0002
