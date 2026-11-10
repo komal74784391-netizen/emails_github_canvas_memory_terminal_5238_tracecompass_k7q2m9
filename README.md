@@ -1,0 +1,2 @@
+# emails_github_canvas_memory_terminal_5238_tracecompass_k7q2m9
+Official code release for TraceCompass: Span-Level Attribution for Retrieval-Augmented Generation
